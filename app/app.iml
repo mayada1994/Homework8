@@ -156,6 +156,7 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-core-ui-26.1.0" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:preference-v7-26.1.0" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-core-utils-26.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: android.arch.lifecycle:extensions-1.0.0-alpha9" level="project" />
     <orderEntry type="library" name="Gradle: com.android.databinding:library-3.2.1" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.persistence.room:support-db-impl-1.0.0-alpha9" level="project" />
     <orderEntry type="library" name="Gradle: android.arch.lifecycle:runtime-1.0.3" level="project" />

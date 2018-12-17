@@ -12,13 +12,14 @@ MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Mayada\.gradle
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\1e36e99912a17f036edd5d0371b3f287\AndroidManifest.xml:2:1-11:12
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\bf66fc4b1e7978dee1b30b3aa2955b1f\AndroidManifest.xml:17:1-42:12
 MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\3b0b62c8c2daa849142cd1f9d2188932\AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:17:1-34:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\289287d5da9f139aaafa8829414e9e4f\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f6e4d6872dce5b85641774d4c30382be\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fa75abfb4b6440b58fb421f509f8b5a5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3b0bf267ca2aee48d1b1c9c055f653f4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\da15d4cbab8b07e6f8b511ca6c62353d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\20f42f69afd61c29fd98e6e8dc7fc1bb\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ed741c6537fed30b5a01dad9116fcb35\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-db-impl-1.0.0-alpha9.aar\ced932d95c4e302436ecbfa7e38e0e91\AndroidManifest.xml:17:1-26:12
@@ -57,20 +58,22 @@ MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Us
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\1e36e99912a17f036edd5d0371b3f287\AndroidManifest.xml:9:5-20
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\bf66fc4b1e7978dee1b30b3aa2955b1f\AndroidManifest.xml:26:5-40:19
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\bf66fc4b1e7978dee1b30b3aa2955b1f\AndroidManifest.xml:26:5-40:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:26:5-32:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:26:5-32:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\289287d5da9f139aaafa8829414e9e4f\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\289287d5da9f139aaafa8829414e9e4f\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f6e4d6872dce5b85641774d4c30382be\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f6e4d6872dce5b85641774d4c30382be\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fa75abfb4b6440b58fb421f509f8b5a5\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fa75abfb4b6440b58fb421f509f8b5a5\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3b0bf267ca2aee48d1b1c9c055f653f4\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3b0bf267ca2aee48d1b1c9c055f653f4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\da15d4cbab8b07e6f8b511ca6c62353d\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\da15d4cbab8b07e6f8b511ca6c62353d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\20f42f69afd61c29fd98e6e8dc7fc1bb\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\20f42f69afd61c29fd98e6e8dc7fc1bb\AndroidManifest.xml:25:5-29:19
 	android:supportsRtl
@@ -157,20 +160,22 @@ MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Mayada\.gradle\
 MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\bf66fc4b1e7978dee1b30b3aa2955b1f\AndroidManifest.xml:22:5-24:41
 MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\3b0b62c8c2daa849142cd1f9d2188932\AndroidManifest.xml:22:5-24:41
 MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0-alpha9.aar\3b0b62c8c2daa849142cd1f9d2188932\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\289287d5da9f139aaafa8829414e9e4f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\289287d5da9f139aaafa8829414e9e4f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f6e4d6872dce5b85641774d4c30382be\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f6e4d6872dce5b85641774d4c30382be\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fa75abfb4b6440b58fb421f509f8b5a5\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fa75abfb4b6440b58fb421f509f8b5a5\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3b0bf267ca2aee48d1b1c9c055f653f4\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3b0bf267ca2aee48d1b1c9c055f653f4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\da15d4cbab8b07e6f8b511ca6c62353d\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\da15d4cbab8b07e6f8b511ca6c62353d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\20f42f69afd61c29fd98e6e8dc7fc1bb\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\20f42f69afd61c29fd98e6e8dc7fc1bb\AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\ed741c6537fed30b5a01dad9116fcb35\AndroidManifest.xml:20:5-22:41
@@ -205,14 +210,14 @@ MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mayada
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f6e4d6872dce5b85641774d4c30382be\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fa75abfb4b6440b58fb421f509f8b5a5\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fa75abfb4b6440b58fb421f509f8b5a5\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3b0bf267ca2aee48d1b1c9c055f653f4\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\3b0bf267ca2aee48d1b1c9c055f653f4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\27bff811871eac682b1a191472b706c7\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\da15d4cbab8b07e6f8b511ca6c62353d\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\da15d4cbab8b07e6f8b511ca6c62353d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0de3e4b7f9cbb64ca066e723b58443d2\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\20f42f69afd61c29fd98e6e8dc7fc1bb\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\20f42f69afd61c29fd98e6e8dc7fc1bb\AndroidManifest.xml:26:9-28:38
 	android:value
@@ -233,3 +238,13 @@ action#com.google.android.gms.gcm.ACTION_TASK_READY
 ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\bf66fc4b1e7978dee1b30b3aa2955b1f\AndroidManifest.xml:37:17-87
 	android:name
 		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.7.0.aar\bf66fc4b1e7978dee1b30b3aa2955b1f\AndroidManifest.xml:37:25-84
+provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
+ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:27:9-31:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:29:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:31:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-alpha9] C:\Users\Mayada\.gradle\caches\transforms-1\files-1.1\extensions-1.0.0-alpha9.aar\dd22e3c886abe4bbbc5a777ef6d74057\AndroidManifest.xml:28:13-81

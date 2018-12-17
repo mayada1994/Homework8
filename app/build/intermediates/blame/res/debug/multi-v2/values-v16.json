@@ -14,25 +14,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Mayada\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\4bef23350ad362a9da172a7b777cf7b6\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "223"
-                    },
-                    "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "468",
-                        "endLines": "12",
-                        "endColumns": "12",
-                        "endOffsets": "636"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Mayada\\Desktop\\architectureComponentsSunshineStartingCode\\app\\src\\main\\res\\values-v16\\styles.xml",
                     "from": {
                         "startLines": "19",
@@ -49,6 +30,25 @@
                         "endLines": "8",
                         "endColumns": "12",
                         "endOffsets": "463"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mayada\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\58ad1ab0218f9954a43a88f6e9134eb6\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "468",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "636"
                     }
                 }
             ]
